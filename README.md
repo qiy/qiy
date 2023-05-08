@@ -3,7 +3,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=qiy&show_icons=true&count_private=true&hide=prs&theme=gotham&card_width=450)
    ![   Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiy&layout=compact&theme=gotham&hide=html&hide_border=true&card_width=340)
-<<!--div>
+<!--div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qiy">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=qiy&show_icons=true&count_private=true&hide=prs&theme=gotham&card_width=400" />
 </a>
