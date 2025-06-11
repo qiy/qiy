@@ -1,4 +1,4 @@
-### Hi There 👋
+### Want to solve the mystery? Just QIY – Quest It Yourself! 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=qiy.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=qiy&show_icons=true&count_private=true&hide=prs&theme=gotham&card_width=450)
